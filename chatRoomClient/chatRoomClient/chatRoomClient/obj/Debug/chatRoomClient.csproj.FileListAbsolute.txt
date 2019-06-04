@@ -1,0 +1,58 @@
+E:\代码\作业\计网作业\chatRoom\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.exe.config
+E:\代码\作业\计网作业\chatRoom\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.exe
+E:\代码\作业\计网作业\chatRoom\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.pdb
+E:\代码\作业\计网作业\chatRoom\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csprojResolveAssemblyReference.cache
+E:\代码\作业\计网作业\chatRoom\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.Form1.resources
+E:\代码\作业\计网作业\chatRoom\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.Properties.Resources.resources
+E:\代码\作业\计网作业\chatRoom\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csproj.GenerateResource.Cache
+E:\代码\作业\计网作业\chatRoom\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.exe
+E:\代码\作业\计网作业\chatRoom\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.pdb
+E:\代码\作业\计网作业\chatRoom无在线列表备份\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.exe.config
+E:\代码\作业\计网作业\chatRoom无在线列表备份\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.exe
+E:\代码\作业\计网作业\chatRoom无在线列表备份\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.pdb
+E:\代码\作业\计网作业\chatRoom无在线列表备份\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.exe
+E:\代码\作业\计网作业\chatRoom无在线列表备份\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.pdb
+E:\代码\作业\计网作业\chatRoom无在线列表备份\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csprojResolveAssemblyReference.cache
+E:\代码\作业\计网作业\chatRoom无在线列表备份\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.Form1.resources
+E:\代码\作业\计网作业\chatRoom无在线列表备份\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.Properties.Resources.resources
+E:\代码\作业\计网作业\chatRoom无在线列表备份\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csproj.GenerateResource.Cache
+C:\Users\Lucien\Downloads\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.exe.config
+C:\Users\Lucien\Downloads\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.exe
+C:\Users\Lucien\Downloads\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.pdb
+C:\Users\Lucien\Downloads\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csprojAssemblyReference.cache
+C:\Users\Lucien\Downloads\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.Form1.resources
+C:\Users\Lucien\Downloads\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.Properties.Resources.resources
+C:\Users\Lucien\Downloads\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csproj.GenerateResource.cache
+C:\Users\Lucien\Downloads\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csproj.CoreCompileInputs.cache
+C:\Users\Lucien\Downloads\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.exe
+C:\Users\Lucien\Downloads\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.pdb
+\\vmware-host\Shared Folders\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.exe.config
+\\vmware-host\Shared Folders\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.exe
+\\vmware-host\Shared Folders\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.pdb
+\\vmware-host\Shared Folders\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.Form1.resources
+\\vmware-host\Shared Folders\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.exe
+\\vmware-host\Shared Folders\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.pdb
+C:\Users\dimin\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.exe.config
+C:\Users\dimin\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.exe
+C:\Users\dimin\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.pdb
+C:\Users\dimin\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csprojAssemblyReference.cache
+C:\Users\dimin\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.Form1.resources
+C:\Users\dimin\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.Properties.Resources.resources
+C:\Users\dimin\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csproj.GenerateResource.cache
+C:\Users\dimin\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csproj.CoreCompileInputs.cache
+C:\Users\dimin\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.exe
+C:\Users\dimin\Desktop\chatRoomTest-master\chatRoomTest-master\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.pdb
+C:\Users\dimin\Desktop\新建文件夹 (2)\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.exe.config
+C:\Users\dimin\Desktop\新建文件夹 (2)\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.exe
+C:\Users\dimin\Desktop\新建文件夹 (2)\chatRoomClient\chatRoomClient\chatRoomClient\bin\Debug\chatRoomClient.pdb
+C:\Users\dimin\Desktop\新建文件夹 (2)\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csprojAssemblyReference.cache
+C:\Users\dimin\Desktop\新建文件夹 (2)\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.Form1.resources
+C:\Users\dimin\Desktop\新建文件夹 (2)\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.Properties.Resources.resources
+C:\Users\dimin\Desktop\新建文件夹 (2)\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csproj.GenerateResource.cache
+C:\Users\dimin\Desktop\新建文件夹 (2)\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.csproj.CoreCompileInputs.cache
+C:\Users\dimin\Desktop\新建文件夹 (2)\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.exe
+C:\Users\dimin\Desktop\新建文件夹 (2)\chatRoomClient\chatRoomClient\chatRoomClient\obj\Debug\chatRoomClient.pdb
